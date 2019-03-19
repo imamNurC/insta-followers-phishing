@@ -1,8 +1,8 @@
 <?php
 #===============================================#
-#            Author: Moh.ImamNurCakra           
-#            Mailer: Imam                        
-#            Modifer: Mr.Ackerman~               
+#            Author: Moh.ImamNurCakra           #
+#            Mailer: Imam                       # 
+#            Modifer: Mr.Ackerman~              # 
 #===============================================#
 /* PLEASE DON'T CHANGE COPYRIGHT! */
 
