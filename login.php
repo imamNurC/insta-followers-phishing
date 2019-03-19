@@ -1,10 +1,10 @@
 <?php
-###############################################
-##        Author: Moh.ImamNurCakra           ##
-##       Mailer: Imam                        ##
-##       Modifer: Mr.Ackerman~               ##
-###############################################
-/* JANGAN GANTI COPYRIGHT NYA YA SAYANG */
+#===============================================#
+#            Author: Moh.ImamNurCakra           
+#            Mailer: Imam                        
+#            Modifer: Mr.Ackerman~               
+#===============================================#
+/* PLEASE DON'T CHANGE COPYRIGHT! */
 
 $subjek = 'Laporan Akun Instagram';
 $mailto = 'imamnurcakra@gmail.com'; //YOUR EMAIL ADDRESS
